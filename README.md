@@ -10,6 +10,9 @@ Network analysis is an approach used to explore the relationship structure betwe
 This talk will also introduce a website that interactively visualizes PEP's reference relationships (https://github.com/komo-fr/pep_map_site).
 
 - Speaker: Tomoko Furuki (Twitter: [@komo_fr](https://twitter.com/komo_fr))
-- Slide: Coming Soon
+- Slide: https://bit.ly/2KVRh2t
 - Jupyer Notebook: Coming Soon
-- Web Site: https://komo-fr.github.io/pep_map_site/network.html
+- Web Site
+  * PEP Map: https://github.com/komo-fr/pep_map_site 
+  * Network: https://komo-fr.github.io/pep_map_site/network.html 
+  * Clustering Result https://komo-fr.github.io/pep_map_site/louvain.html 
