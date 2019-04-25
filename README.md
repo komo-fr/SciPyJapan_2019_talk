@@ -17,8 +17,8 @@ This talk will also introduce a website that interactively visualizes PEP's refe
   * [01-prepare_and_see_data.ipynb](https://github.com/komo-fr/SciPyJapan_2019_talk/blob/master/notebooks/01-prepare_and_see_data.ipynb)
   * 02-draw_network (coming soon)
   * 03-community_detection (coming soon)
-- Web Site
+- Web Site (Interactive Visualization)
   * PEP Map: https://github.com/komo-fr/pep_map_site 
   * Network: https://komo-fr.github.io/pep_map_site/network.html 
-  * Clustering Result https://komo-fr.github.io/pep_map_site/louvain.html
+  * Community Detection: https://komo-fr.github.io/pep_map_site/louvain.html
  
